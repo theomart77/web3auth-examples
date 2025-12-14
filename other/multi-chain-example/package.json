@@ -5,7 +5,7 @@
   "dependencies": {
     "@polkadot/api": "^10.11.2",
     "@polkadot/util-crypto": "^12.6.2",
-    "@taquito/signer": "^19.0.1",
+    "@taquito/signer": "^23.1.0",
     "@taquito/taquito": "^19.0.1",
     "@taquito/utils": "^19.0.1",
     "@tezos-core-tools/crypto-utils": "^0.0.7",
