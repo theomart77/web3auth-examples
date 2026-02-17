@@ -15,7 +15,7 @@
     "next": "^15.3.2",
     "react": "^19.1.0",
     "react-dom": "^19.1.0",
-    "wagmi": "^2.14.16"
+    "wagmi": "^3.0.0"
   },
   "//IMP END": "IMP END - Web3Auth Installation",
   "devDependencies": {
