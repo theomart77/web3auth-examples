@@ -6,7 +6,8 @@
     "dev": "next dev",
     "build": "next build",
     "start": "next start",
-    "lint": "next lint"
+    "lint": "next lint",
+    "test": "node --test __tests__/**/*.test.mjs"
   },
   "//IMP START": "IMP START - Web3Auth Installation",
   "dependencies": {
@@ -15,7 +16,7 @@
     "next": "^15.3.2",
     "react": "^19.1.0",
     "react-dom": "^19.1.0",
-    "wagmi": "^3.0.0"
+    "wagmi": "^2.14.16"
   },
   "//IMP END": "IMP END - Web3Auth Installation",
   "devDependencies": {
