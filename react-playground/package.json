@@ -13,7 +13,7 @@
     "react-js-pagination": "^3.0.3",
     "react-json-formatter": "^0.4.0",
     "react-router-dom": "^6.26.2",
-    "wagmi": "^2.15.0"
+    "wagmi": "^3.0.0"
   },
   "optionalDependencies": {
     "esbuild": "^0.14.0"
